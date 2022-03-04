@@ -1,5 +1,7 @@
 ### Projeto desenvolvido na Trybe com foco em desenvolver as seguintes habilidades: HTML, CSS e JS.
 
+#### Projeto foi o desenvolvimento de uma lista de tarefas.
+
 #### Desenvolvimento:
 
 - [x] 1 - Adicione à sua lista o título "Minha Lista de Tarefas" em uma tag
